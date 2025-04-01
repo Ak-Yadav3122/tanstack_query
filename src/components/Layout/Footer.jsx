@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <p>
-        copywrite
+        copywrite 2025
       </p>
     </footer>
   )
